@@ -1,7 +1,7 @@
 NAME: A ADARSH
 
-1 : Installation instructions:\n
-    -Unzip and place the containing folder in your document root on a PHP enabled server.\n
+1 : Installation instructions:<br>
+    -Unzip and place the containing folder in your document root on a PHP enabled server.<br>
     -Import the file - socialNetwork.sql onto your preferred MySQL database.
     -[IMPORTANT] Alter the file /[foldername]/include/newCon.php . Further instruction are provided in the file itself.
     -[IMPORTANT] On a non-Apache server, delete the files '/[foldername]/.htaccess' and '/[foldername]/include/.htaccess'
