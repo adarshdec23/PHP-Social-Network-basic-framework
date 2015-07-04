@@ -17,7 +17,6 @@
 3: Sufficient comments have been provided wherever necessary. 
 
 4: The table 'friends' contains an enumeration of (0,1).
-
    0 -> A friend request has been sent, and is currently awaiting confirmation.
    
    1 -> The two users friend1 and friend2 are friends. 
